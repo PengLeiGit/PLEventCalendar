@@ -1,0 +1,6 @@
+framework module Pods_PLEventCalendar_Example {
+  umbrella header "Pods-PLEventCalendar_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

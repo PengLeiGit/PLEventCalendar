@@ -1,0 +1,6 @@
+framework module PLEventCalendar {
+  umbrella header "PLEventCalendar-umbrella.h"
+
+  export *
+  module * { export * }
+}

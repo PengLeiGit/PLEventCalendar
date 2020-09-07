@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PLEventCalendar_Example' do
+  pod 'PLEventCalendar', :path => '../'
+
+  target 'PLEventCalendar_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

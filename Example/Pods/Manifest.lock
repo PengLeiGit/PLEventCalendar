@@ -1,0 +1,16 @@
+PODS:
+  - PLEventCalendar (0.1.0)
+
+DEPENDENCIES:
+  - PLEventCalendar (from `../`)
+
+EXTERNAL SOURCES:
+  PLEventCalendar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PLEventCalendar: abea1fd62a6481508c60c2937630ee87c383573f
+
+PODFILE CHECKSUM: 591aae16a41c0e2481ff26f4fe4f722496fb745f
+
+COCOAPODS: 1.9.1
